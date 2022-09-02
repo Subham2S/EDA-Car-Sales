@@ -1,4 +1,4 @@
-# 🏎️ EDA-Car-Sales
+# EDA on Car Sales 🚗
 
 Explanatory Data Analysis using Python on Cars data.
 
