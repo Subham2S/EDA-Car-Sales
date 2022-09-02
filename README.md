@@ -1,6 +1,6 @@
-# EDA-Car-Sales
+# 🏎️ EDA-Car-Sales
 
-🚗 Explanatory Data Analysis using Python on Cars data.
+Explanatory Data Analysis using Python on Cars data.
 
 This is a quick EDA excercise to find out :
 
