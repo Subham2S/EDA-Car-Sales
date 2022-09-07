@@ -13,4 +13,4 @@ This is a quick EDA excercise to find out :
 7. Establish corelation between all features using heatmap.
 8. Distribution of Price
 
-This is a good practice of Data Cleaning and also understand the effect of ouliers in the data.
+This is a good practice of Data Cleaning and also to understand the effect of ouliers in the data.
